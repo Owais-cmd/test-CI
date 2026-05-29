@@ -5,4 +5,8 @@ if (!apiKey) {
   process.exit(1);
 }
 
+function a(n,u){
+  return n+u
+}
+
 console.log("App is running securely.");
